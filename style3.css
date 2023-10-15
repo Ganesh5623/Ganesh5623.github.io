@@ -1,0 +1,39 @@
+html,body{
+    font-family: "Young Serif";
+    height: 100%;
+    width:100%;
+    
+     background: url(/img/HD-wallpaper-apple-macbook-laptop-on-black-background-modern-technology-laptop-apple.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+    }
+
+h1{
+    color: rgb(242, 236, 236);
+}
+.btn{
+    font-weight: 700;
+    border-radius: 400px;
+    text-transform:uppercase ;
+}
+.btn-primary{
+   
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+}     
+.btn-xl{
+    padding: 1rem,2rem;
+
+}
+.btn-primary:hover{
+    background-color: rgb(33, 33, 225);
+    border-width: 4px;
+}
+hr{
+    border-color: #F05F44;
+    border-width: 3px;
+    max-width: 65px;
+    align-self: center;
+}
